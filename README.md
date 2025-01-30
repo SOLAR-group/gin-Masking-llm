@@ -1,6 +1,6 @@
 # Gin LLM User Guide
 
-This guide provides instructions on how to recreate the experiments detailed in the paper **"Large Language Model-based Code Completion is an Effective Genetic Improvement Mutation Operator."** It focuses solely on the experiments; for more information about GIN, please refer to the [README](https://anonymous.4open.science/r/gin-Masking-llm/README_GIN.md).
+This guide provides instructions on how to recreate the experiments detailed in the paper **"Large Language Model-based Code Completion is an Effective Genetic Improvement Mutation Operator."** accepted to the GI@ICSE2025 workshop. This guiude focuses solely on the experiments; for more information about GIN, please refer to the [README](https://anonymous.4open.science/r/gin-Masking-llm/README_GIN.md).
 
 ## Code Overview
 
